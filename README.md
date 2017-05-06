@@ -1,0 +1,1 @@
+copy `.env.secret` to `.env` and use the values of your app created on applications.twitter.com
